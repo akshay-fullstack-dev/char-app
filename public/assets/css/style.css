@@ -1,0 +1,10 @@
+.container {
+    background-color: #fff;
+    width: 60%;
+    margin: 2% auto 0 auto;
+    font-size: 20px !important;
+}
+
+.email-footer {
+    margin-top: 10px;
+}
